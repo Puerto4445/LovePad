@@ -21,7 +21,8 @@ Este es un bloc de notas simple creado con Python. Permite a los usuarios tomar 
 
 ## Capturas de Pantalla
 
-![Captura](https://github.com/Puerto4445/LovePad/assets/166276555/b80c460b-4179-443f-9ac5-0da5e1da1d2f)
+[![Captura](https://github.com/Puerto4445/LovePad/assets/166276555/b80c460b-4179-443f-9ac5-0da5e1da1d2f)](https://github.com/Puerto4445/LovePad/assets/166276555/a77aafb6-f65a-4f23-adf9-ec747e81f7e6
+)
 
 
 
