@@ -11,7 +11,7 @@ Este es un bloc de notas simple creado con Python. Permite a los usuarios tomar 
 
 ## Tecnologías Utilizadas
 
-- **Python**: Uso de la biblioteca Tkinter
+- **Python**: Uso de la biblioteca Tkinter - CustomTkinter
 
 ## Instalación y Uso
 
