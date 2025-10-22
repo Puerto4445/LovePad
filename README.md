@@ -1,31 +1,27 @@
-# LOVEPAD
+# LOVEPAD 📝
 
-Este es un bloc de notas simple creado con Python. Permite a los usuarios tomar notas rápidas y guardarlas 
+A modern, simple, and extensible notepad built with Python and the CustomTkinter library. This project serves as a functional notepad application and, more importantly, as a clean and well-documented project skeleton for learning how to create desktop applications or for starting your own projects.
+## Philosophy ✨
 
-## Características
+LovePad's goal is simple.
+To provide a solid and easy-to-understand foundation.
+## Technologies Used ⚙️
 
-- **Nueva Nota**: Los usuarios pueden crear nuevas notas simplemente haciendo clic en el botón "Nuevo".
-- **Abrir Nota**: Los usuarios pueden abrir sus notas 
-- **Guardar Nota**: Las notas se guardan haciendo clic en el botón "Guardar".
-- **Salir**: Los usuarios pueden salir recibiendo una una despedida 
+- **Python**: Using the Tkinter library - CustomTkinter
 
-## Tecnologías Utilizadas
+## Installation and Use
 
-- **Python**: Uso de la biblioteca Tkinter - CustomTkinter
+1. Clone or download the repository.
+2. Open the `Lovepad` file.
+3. Start taking notes.
 
-## Instalación y Uso
-
-1. Clona o descarga el repositorio.
-2. Abre el archivo `Lovepad` 
-3. Comienza a tomar notas.
-
-## Capturas de Pantalla
+## Screenshots
 
 [![Captura](https://github.com/Puerto4445/LovePad/assets/166276555/b80c460b-4179-443f-9ac5-0da5e1da1d2f)](https://github.com/Puerto4445/LovePad/assets/166276555/a77aafb6-f65a-4f23-adf9-ec747e81f7e6
 )
 
 
 
-## Autor
+## Author
 
-Este bloc de notas fue creado por [Puerto4445](https://github.com/Puerto4445/).
+This notepad was created by [Puerto4445](https://github.com/Puerto4445/).
