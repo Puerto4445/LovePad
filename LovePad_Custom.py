@@ -25,7 +25,7 @@ class SimpleText:
             self.current_open_file = file 
     
     def save_file(self):
-        # Función para guardar el contenido del área de texto en un archivo
+        # Para guardar el contenido
         if not self.current_open_file: 
             new_file_path = filedialog.asksaveasfilename() 
             if new_file_path:
@@ -36,11 +36,10 @@ class SimpleText:
             f.write(self.text_area.get("1.0", tk.END))
     
     def quit_confirm(self):
-        # Función para confirmar antes de cerrar la aplicación
+        # Confirmar antes de cerrar la aplicación
         if messagebox.askokcancel("salir", "¿Deseas salir mi amor?"):
             self.root.destroy() 
 
-#Ventana principal
 root= tk.CTk()
 root.geometry("900x400")
 root.title("LovePad")
